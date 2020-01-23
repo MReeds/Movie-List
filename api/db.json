@@ -1,0 +1,24 @@
+{
+    "movies": [
+    {
+        "id": 1,
+        "title": "6 Underground",
+        "year": 2019,
+},
+    {
+        "id": 2,
+        "title": "Star Wars: The Rise of Skywalker",
+        "year": 2019,
+},
+    {
+        "id": 3,
+        "title": "Space Ham",
+        "year": 2020
+},
+    {
+        "id": 4,
+        "title": "Big Hero 6",
+        "year": "2016"
+        }
+    ]
+}
