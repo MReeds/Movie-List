@@ -1,10 +1,10 @@
 const movieFactory = (movie) => {
     return `
-    <section class="movie>
+    <section class="movie">
         <div>Title: ${movie.title}</div>
         <div>Date: ${movie.year}</div>
     </section>
-    `;
+    `
 };
 const renderMovies = (movies) => {
     const container = document.getElementById("movie-container");
